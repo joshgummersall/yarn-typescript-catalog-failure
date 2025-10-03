@@ -1,0 +1,1 @@
+# yarn-typescript-catalog-failure

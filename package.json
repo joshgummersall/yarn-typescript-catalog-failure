@@ -1,0 +1,7 @@
+{
+  "name": "yarn-typescript-catalog-failure",
+  "packageManager": "yarn@4.10.3",
+  "dependencies": {
+    "typescript": "catalog:"
+  }
+}
